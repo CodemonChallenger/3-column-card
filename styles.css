@@ -47,7 +47,7 @@ body {
 .main > article {
   display: flex;
   flex-direction: column;
-  padding: 3em;
+  padding: 2em;
 }
 
 .sedan-card {
@@ -75,7 +75,7 @@ body {
 }
 
 .card-icon {
-  width: 60px;
+  width: 75px;
 }
 
 .card-title {
@@ -88,7 +88,7 @@ body {
 
 .card-description {
   color: hsla(0, 0%, 95%, 90%);
-  line-height: 1.5;
+  line-height: 1.75;
   margin-top: 1.5em;
 }
 
